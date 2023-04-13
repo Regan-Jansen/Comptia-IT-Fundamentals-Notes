@@ -1,1 +1,22 @@
+Infrastructure 
 
+2.1 Common types of input and output Devices
+
+Networking - wired
+
+2.1.1 Telephone Connector (RJ - 11 ) -  the old cable used for telephones and have dial up internet connection
+                                     - 4 wires inside and can transfer data and voice traffic
+2.1.2 Ethernet Cable ( RJ - 45 ) - common used, 8 wires that carries voice and data. usually cat 6 or 3
+
+
+Networking - wireless
+
+2.1.3 Bluetooth - Allows for users to create a personal area netwprk (PAN)
+                - Uses the 2.4Ghz frequency band
+                - up to 79 channels 
+                -0 - 300 fet range
+                
+      NFC - Near Field Connection
+          - is like bluettoth but it used for devices that are close to each other aprx 20cm
+ 
+      
