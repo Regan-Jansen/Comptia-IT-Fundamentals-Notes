@@ -18,5 +18,48 @@ Networking - wireless
                 
       NFC - Near Field Connection
           - is like bluettoth but it used for devices that are close to each other aprx 20cm
+          
+2.1.4 Periphal Devices
+
+2.1.4.1 USB - Universal Serial Bus
+            - Carry audio, data , video and power
+            
+   Firewire - used for high speed data transfers
+            - Mostly used by Apple
+            
+Thunderbolt - Extremely fast connections
+            - 2 Channels on the same connector ( 10gbps )
+            
+2.1.5 Graphic Devices
+
+2.1.5.1 VGA - Video graphics array
+            - 640/480 pixels 
+            - 16 or 256 colours HEX
+        
+        HDMI - High Definition Multimedia Interface
+             - Carry audio or Media 
+             - Commonly used for Multimedia entertainment
+             
+        DVI - Digital Visual interface 
+        
+Display Port - Used to connect video source to a display outlet eg. computure monitor
+             - Can carry data or audio as well
+             
+Mini D. port -  pure digital connection to display 
+             - commonly found using apple
+             
+2.2 Common Periphal devices that are installed to a laptop
+
+2.2.1 Laser printer - laser beam draws the image on the paper
+      Inkjet - Printer that sprays small dots onto the paper
+      Thermal - Burns the data onto a piece of paper
+      
+      
+
+
+
+
+        
+
  
       
