@@ -54,5 +54,54 @@ Patents - is an exclusive right for an invnetion whereby the one holding the pat
 
 Businesses use this data to make data driven decision to advance their business interests
 
+1.5 Contrast Unit of measure 
+
+Storage Units ( measurement of data that is stored )
+
+Bit - smallest unit of measurement we use to measure data
+
+Byte - is * or & bits of data 
+     - usually one character of data
+     
+Kilobyte - is 1000 bytes ( actually 1024bytes)
+
+Megabyte - 1000 Kilobytes or 1000000 bytes
+
+Gigabyte - 1000 megabytes 0r 1000000 kilobytes
+
+Terabyte - 1000 gigabytes
+
+Throughput units ( how fast data is moving )'
+
+bps - bits per second
+kbps - kilobits per second
+mbps - megabits per second
+gbps - gigbits per second
+tbps - terabits per second
+
+Processing Speeds ( at which a comuter processes information or data )
+
+Megahertz - Mhz - 1 million megahertz per second
+Gigahertz - Ghz - 1 million gigahertz per second
+
+1.6 Trouble shooting methodology
+
+1.6.1 Identify the problem
+          - Gather information
+          - Duplicate the problem
+          - Question Users
+
+1.6.2 Research Knowledge Base Solutions
+1.6.3 Establish a theory
+1.6.4 Test the theory
+1.6.5 Establish a plan of action
+1.6.6 Implement Solution
+1.6.7 Document findings
+
+
+
+
+
+
 
 
