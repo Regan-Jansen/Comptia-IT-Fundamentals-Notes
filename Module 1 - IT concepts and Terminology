@@ -1,0 +1,58 @@
+Module 1
+
+1. Compare and contrast Notational systems
+
+There are three types of data or language the computer uses to communicate
+
+1.1. Binary - is base 2
+          - it is called a bit, smallest form of data and used at the core of computer processing. 8 bits = byte
+          - it is 1 and 0's
+          - it is a numbering system used to understand operational instructions from a user to produce a output
+
+1.2. Hexadecimal - is base 16
+               - consists of 0-9 and A-F
+
+1.3. Decimal - is base 10
+           - 0 - 9
+
+ASCII table - it is the interhange between notational systems and symbols that display human readable code
+
+eg. So the user user enters a instruction, the computer processes it in notational systems then converts it into a sysmbol on the ASCII table to display output
+
+1.2 Compare and Contrast fundamental adat types and their characteristics
+
+1.2.1 
+
+Char - is the simplest form of a data input in letters. It is usually a single data type eg. a 
+
+Strings - is multiple Char to create a name or password etc
+
+Numbers - 
+
+      Intergers - is whole numbers eg 1. 234. 12546
+      Floats - is numbers with decimals eg 12.43 ( used for more precision calculations)
+      
+Booleans - is used for either true or false
+
+1.3 basics of Computing and processing
+
+1.3.1 input - is we as humans telling the computer what to do
+1.3.2 Process - CPU processing our instructions
+1.3.3 Output - The computer telling us what we did
+1.3.4 Storage - our process and information that is stored in the hardrive
+
+1.4  Explain the value of data and information
+
+Websites or Mobile application collect data such as names, surbames, card information and more and these individual data collected is called data types. 
+The data types collected can be used and turned into information. Companies use this information to promote and advertise products etc just by using the data collected fom the data types
+
+Data one can have is a;
+
+Trademark - logo or branding of a business
+Copyright - books and videos
+Patents - is an exclusive right for an invnetion whereby the one holding the patent has the exlcusive rights to that product and no-one else can use it
+
+Businesses use this data to make data driven decision to advance their business interests
+
+
+
